@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=${arjuneyy}.${arjuneyy}}eft_text=Visitors&"/>
 <div align="center">
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjuneyy&count_private=true&layout=compact&border_radius=5" />
   <img  width="33%" src="https://github-readme-stats.vercel.app/api?username=arjuneyy&show_icons=true&border_radius=5"/>
